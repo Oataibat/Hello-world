@@ -1,2 +1,1 @@
-# Hello-world
-Getting started 
+Getting started with data science 
